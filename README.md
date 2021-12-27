@@ -1,17 +1,12 @@
 <p align="center">
-  <img src="https://telegra.ph/file/d2a6abfe3fbcfe63a906e.jpg" alt="annabelle Logo">
+  <img src="https://te.legra.ph/file/ea23170fc228cc09b56eb.jpg" alt="annabelle Logo">
 </p>
 <h1 align="center">
-  <b>Annabelle</b>
+  <b>🕷️ SPIDER-MAN 🕷️</b>
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/vaishnavofficial/annabelle?style=flat-square&color=yellow)](https://github.com/hopepsycho/kunjappan2.0/stargazers)
-[![Forks](https://img.shields.io/github/forks/vaishnavofficial/annabelle?style=flat-square&color=orange)](https://github.com/hopepsycho/kunjappan2.0fork)
-[![Size](https://img.shields.io/github/repo-size/hopepsycho/kunjappan2.0?style=flat-square&color=green)](https://github.com/hopepsycho/kunjappan2.0/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hopepsycho/kunjappan2.0)   
-[![Contributors](https://img.shields.io/github/contributors/hopepsycho/kunjappan2.0?style=flat-square&color=green)](https://github.com/hopepsycho/kunjappan2.0/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/hopepsycho/kunjappan2.0/blob/main/LICENSE)
+
 [![Sparkline](https://stars.medv.io/hopepsycho/kunjappan2.0.svg)](https://stars.medv.io/hopepsycho/kunjappan2.0)
 
 
@@ -100,8 +95,8 @@ python3 bot.py
 • /broadcast - to broadcast a message to all Eva Maria users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/KUNJAPPANSUPPORT)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/KUNJAPPANSUPPORTEZ)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/IET_SUPPORT)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/IET_UPDATESS)
 
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/kunjappandevs)
@@ -128,4 +123,4 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 ## Inspiration
 This is an attempt to create a clone of a BOAT made out of [banana trees 🌳](https://telegram.dog/GetTGLink/4187)
 
-[![For Vaza](https://telegra.ph/file/cfc422395273551a0b148.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
+[![For Vaza](https://te.legra.ph/file/0307440ba4f64d4373dc9.jpg)](https://telegra.ph/file/98342dc186fd7484cba91.mp4 "Oru Kootam Vazhakalk samarpikkunnu")
