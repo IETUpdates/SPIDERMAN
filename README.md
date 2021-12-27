@@ -44,12 +44,12 @@
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/vkkZs6t_DZo)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtu.be/1ltbuCY_V6s)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/vaishnavofficial/annabelle/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/ietupdates/Spiderman/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
