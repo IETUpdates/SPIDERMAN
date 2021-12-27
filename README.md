@@ -58,7 +58,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/hopepsycho/kunjappan2.0
+git clone https://github.com/ietupdates/Spiderman
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -105,7 +105,7 @@ python3 bot.py
 ## Thanks to 
  - Thanks To Dan For His Awsome [Libary](https://github.com/hopepsycho/psycho)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/hopepsycho/kunjappan2.0)
- - Thanks To [PSYCHO](https://github.com/hopepsycho) for Their Awesome [Unlimited Filter Bot](https://github.com/hopepsycho/king_of_psycho) And [AutoFilterBoT](https://github.com/hopepsycho/kunjappan2.0)
+ - Thanks To [IQBAL](https://t.me/iet_owner) for Their Awesome Support 🤩
  - Thanks To All Everyone In This Journey
 
 ### Note
