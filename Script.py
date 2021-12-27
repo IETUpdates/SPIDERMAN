@@ -9,9 +9,9 @@ I have the following features. Tap the button in which you want help."""
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
-    SOURCE_TXT = """<b>Annabelle:</b>
+    SOURCE_TXT = """<b>SPIDER-MAN:</b>
 - Annabelle is a open source project made by <a href=https://t.me/vaishnavgr8>Vaishnav</a>. 
-- Source - <a href= https://github.com/Vaishnavofficial/Annabelle>Click here </a>
+- Source - <a href= https://t.me/IET_Owner/724>Click here </a>
 <b>Support channel:</b>
 - <a href=https://t.me/Dianasupport>Team Diana</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
