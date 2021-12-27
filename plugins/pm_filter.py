@@ -223,7 +223,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 except:
                     pass
             else:
-                await query.answer("Thats not for you!!",show_alert=True)
+                await query.answer("Thats not for you!! ഇത് നിനക്ക് ഉള്ളതല്ല",show_alert=True)
 
 
     elif "groupcb" in query.data:
@@ -404,7 +404,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data.startswith("checksub"):
         if AUTH_CHANNEL and not await is_subscribed(client, query):
-            await query.answer("I Like Your Smartness, But Don't Be Oversmart 😒",show_alert=True)
+            await query.answer("I Like Your Smartness, But Don't Be Oversmart 😒 വെളച്ചിൽ എടുക്കല്ലെ.. JOIN ചെയ്യ്.",show_alert=True)
             return
         ident, file_id = query.data.split("#")
         files_ = await get_file_details(file_id)
@@ -449,7 +449,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
-            InlineKeyboardButton('🕸️Manual Filter', callback_data='manuelfilter'),
+            InlineKeyboardButton('🎄Manual Filter', callback_data='manuelfilter'),
             InlineKeyboardButton('🦂Auto Filter', callback_data='autofilter')
             ],[
             InlineKeyboardButton('🐙Connection', callback_data='coct'),
@@ -466,7 +466,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/TeamEvamaria'),
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/IET_Updates'),
             InlineKeyboardButton('♥️ Source', callback_data='source')
             ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
