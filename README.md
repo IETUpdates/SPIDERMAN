@@ -6,10 +6,6 @@
 </h1>
 
 
-
-[![Sparkline](https://stars.medv.io/hopepsycho/kunjappan2.0.svg)](https://stars.medv.io/hopepsycho/kunjappan2.0)
-
-
 ## Features
 
 - [x] Auto Filter
