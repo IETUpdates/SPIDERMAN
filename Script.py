@@ -44,7 +44,7 @@ I have the following features. Tap the button in which you want help."""
 <code>[Button Text](buttonurl:https://t.me/iet_updatess)</code>
 
 <b>Alert buttons:</b>
-<code>[Button Text](buttonalert:This is an alert message from Annabelle)</code>"""
+<code>[Button Text](buttonalert:This is an alert message from Spiderman)</code>"""
     AUTOFILTER_TXT = """Help: <b>Auto Filter</b>
 
 <b>NOTE:</b>
