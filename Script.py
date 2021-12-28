@@ -1,7 +1,7 @@
 class script(object):
-    START_TXT = """Heya {},
-I am <a href=https://t.me/{}>{}</a> I am a simple bot which can provide movies in your group"""
-    HELP_TXT = """heya {}
+    START_TXT = """Hai {}🥰,
+I am <a href=https://t.me/{}>{}</a>🕷️, I am a simple bot which can provide movies in your group"""
+    HELP_TXT = """hey {}
 I have the following features. Tap the button in which you want help."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href= https://docs.pyrogram.org/>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
