@@ -6,12 +6,21 @@ class script(object):
 <b>Made With ❤ BY @IET_Updates</b>"""
     HELP_TXT = """hey {}
 I have the following features. Tap the button in which you want help."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href= https://docs.pyrogram.org/>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: <a href= https://www.python.org/>𝙿𝚈𝚃𝙷𝙾𝙽 𝟹</a>
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href= https://www.mongodb.com/>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href= https://www.heroku.com/>𝙷𝙴𝚁𝙾𝙺𝚄</a>
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href= https://t.me/MM_Spiderman_BoT>🕷️ sᴘɪᴅᴇʀ-ᴍᴀɴ</a></b> 
+
+<b>📝 ʟᴀɴɢᴜᴀɢᴇ : <a href= https://www.python.org/>ᴘʏᴛʜᴏɴ³</a></b> 
+
+<b>📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href= https://docs.pyrogram.org/>ᴘʏʀᴏɢʀᴀᴍ</a></b>
+
+<b>📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href= https://www.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
+
+<b>👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href= https://t.me/Iqbal_KA>Iǫʙᴀʟ ᴋ ᴀ</a></b>
+
+<b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href= https://t.me/IET_Owner/724>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+
+<b>👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href= https://t.me/IET_SUPPORT>ɪᴇᴛ sᴜᴘᴘᴏʀᴛ</a></b>
+
+<b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href= https://t.me/IET_Updates>ɪᴇᴛ ᴜᴘᴅᴀᴛᴇs</a></b>"""
     SOURCE_TXT = """<b>SPIDER-MAN:</b>
 - Spiderman is Not a open source project made by <a href=https://t.me/iet_owner>IQBAL K A</a>. 
 - Source - <a href= https://t.me/IET_Owner/724>Click here </a>
@@ -95,7 +104,7 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
+    STATUS_TXT = """📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
 ★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code> 🕸️
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code> 🕷️
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱
