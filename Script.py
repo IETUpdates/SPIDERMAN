@@ -7,19 +7,12 @@ class script(object):
     HELP_TXT = """hey {}
 I have the following features. Tap the button in which you want help."""
     ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/{}>{}</a></b> 
-
 <b>📝 ʟᴀɴɢᴜᴀɢᴇ : <a href= https://www.python.org/>ᴘʏᴛʜᴏɴ³</a></b> 
-
 <b>📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href= https://docs.pyrogram.org/>ᴘʏʀᴏɢʀᴀᴍ</a></b>
-
 <b>📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href= https://www.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
-
 <b>👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href= https://t.me/Iqbal_KA>Iǫʙᴀʟ ᴋ ᴀ</a></b>
-
 <b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href= https://t.me/IET_Owner/724>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-
 <b>👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href= https://t.me/IET_SUPPORT>ɪᴇᴛ sᴜᴘᴘᴏʀᴛ</a></b>
-
 <b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href= https://t.me/IET_Updates>ɪᴇᴛ ᴜᴘᴅᴀᴛᴇs</a></b>"""
     SOURCE_TXT = """<b>SPIDER-MAN:</b>
 - Spiderman is Not a open source project made by <a href=https://t.me/iet_owner>IQBAL K A</a>. 
@@ -104,15 +97,15 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """<b>📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code></b>
+    STATUS_TXT = """<b>📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: {}</b>
 
-<b>👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code> 🕸️</b>
+<b>👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: {} 🕸️</b>
 
-<b>👥 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code> 🕷️</b>
+<b>👥 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: {} 🕷️</b>
 
-<b>⚙️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝙱</b>
+<b>⚙️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: {}</b>
 
-<b>🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝙱</b>"""
+<b>🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: {}</b>"""
     LOG_TEXT_G = """#NewGroup
 🕸️ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
