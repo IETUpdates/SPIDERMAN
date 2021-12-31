@@ -11,9 +11,7 @@ I have the following features. Tap the button in which you want help."""
 <b>📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href= https://docs.pyrogram.org/>ᴘʏʀᴏɢʀᴀᴍ</a></b>
 <b>📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href= https://www.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
 <b>👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href= https://t.me/Iqbal_KA>Iǫʙᴀʟ ᴋ ᴀ</a></b>
-<b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href= https://t.me/IET_Owner/724>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-<b>👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href= https://t.me/IET_SUPPORT>ɪᴇᴛ sᴜᴘᴘᴏʀᴛ</a></b>
-<b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href= https://t.me/IET_Updates>ɪᴇᴛ ᴜᴘᴅᴀᴛᴇs</a></b>"""
+<b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href= https://t.me/IET_Owner/724>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
     SOURCE_TXT = """<b>SPIDER-MAN:</b>
 - Spiderman is Not a open source project made by <a href=https://t.me/iet_owner>IQBAL K A</a>. 
 - Source - <a href= https://t.me/IET_Owner/724>Click here </a>
