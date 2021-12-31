@@ -6,14 +6,21 @@ class script(object):
 <b>Made With ❤ BY @IET_Updates</b>"""
     HELP_TXT = """hey {}
 I have the following features. Tap the button in which you want help."""
-    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href= https://t.me/MM_Spiderman_BoT>🕷️ sᴘɪᴅᴇʀ-ᴍᴀɴ</a></b> 
-<b>📝 ʟᴀɴɢᴜᴀɢᴇ : <a href= https://www.python.org/>ᴘʏᴛʜᴏɴ³</a></b> 
-<b>📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : <a href= https://docs.pyrogram.org/>ᴘʏʀᴏɢʀᴀᴍ</a></b>
-<b>📡 ʜᴏsᴛᴇᴅ ᴏɴ : <a href= https://www.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
-<b>👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href= https://t.me/Iqbal_KA>Iǫʙᴀʟ ᴋ ᴀ</a></b>
-<b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : <a href= https://t.me/IET_Owner/724>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-<b>👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href= https://t.me/IET_SUPPORT>ɪᴇᴛ sᴜᴘᴘᴏʀᴛ</a></b>
-<b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href= https://t.me/IET_Updates>ɪᴇᴛ ᴜᴘᴅᴀᴛᴇs</a></b>"""
+    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href= https://t.me/MM_Spiderman_BoT>🕷️ sᴘɪᴅᴇʀ-ᴍᴀɴ</a></b>
+ 
+<b>📝 ʟᴀɴɢᴜᴀɢᴇ :</b><b> <a href= https://www.python.org/>ᴘʏᴛʜᴏɴ³</a></b> 
+
+<b>📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ :</b><b> <a href= https://docs.pyrogram.org/>ᴘʏʀᴏɢʀᴀᴍ</a></b>
+
+<b>📡 ʜᴏsᴛᴇᴅ ᴏɴ :</b><b> <a href= https://www.heroku.com/>ʜᴇʀᴏᴋᴜ</a></b>
+
+<b>👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ :</b><b> <a href= https://t.me/Iqbal_KA>Iǫʙᴀʟ ᴋ ᴀ</a></b>
+
+<b>💡 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :</b><b> <a href= https://t.me/IET_Owner/724>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+
+<b>👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ :</b><b> <a href= https://t.me/IET_SUPPORT>ɪᴇᴛ sᴜᴘᴘᴏʀᴛ</a></b>
+
+<b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ :</b><b> <a href= https://t.me/IET_Updates>ɪᴇᴛ ᴜᴘᴅᴀᴛᴇs</a></b>"""
     SOURCE_TXT = """<b>SPIDER-MAN:</b>
 - Spiderman is Not a open source project made by <a href=https://t.me/iet_owner>IQBAL K A</a>. 
 - Source - <a href= https://t.me/IET_Owner/724>Click here </a>
