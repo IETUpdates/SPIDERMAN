@@ -6,7 +6,7 @@ class script(object):
 <b>Made With ❤ BY @IET_Updates</b>"""
     HELP_TXT = """hey {}
 I have the following features. Tap the button in which you want help."""
-    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href= https://t.me/MM_Spiderman_BoT>🕷️ sᴘɪᴅᴇʀ-ᴍᴀɴ</a></b> 
+    ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href=https://t.me/{}>{}</a></b> 
 
 <b>📝 ʟᴀɴɢᴜᴀɢᴇ : <a href= https://www.python.org/>ᴘʏᴛʜᴏɴ³</a></b> 
 
