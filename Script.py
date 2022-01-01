@@ -4,8 +4,8 @@ class script(object):
 <i>Iam A Simple Auto Filter + Movie Search + Manual Filter Bot. I Can Provide Movies In Telegram Groups. I Can Also Add Filters In Telegram Groups.  Just Add Me To Your Group As Admin And Enjoy</i>
 
 <b>Made With ❤ BY @IET_Updates</b>"""
-    HELP_TXT = """hey {}
-I have the following features. Tap the button in which you want help."""
+    HELP_TXT = """ʜᴇʏ {}
+I ʜᴀᴠᴇ ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ ғᴇᴀᴛᴜʀᴇs. Tᴀᴘ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ɪɴ ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ʜᴇʟᴘ."""
     ABOUT_TXT = """<b>🤖 ʙᴏᴛ ɴᴀᴍᴇ: <a href= https://t.me/MM_Spiderman_BoT>🕷️ sᴘɪᴅᴇʀ-ᴍᴀɴ</a></b>
  
 <b>📝 ʟᴀɴɢᴜᴀɢᴇ :</b><b> <a href= https://www.python.org/>ᴘʏᴛʜᴏɴ³</a></b> 
@@ -22,8 +22,8 @@ I have the following features. Tap the button in which you want help."""
 
 <b>📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ :</b><b> <a href= https://t.me/IET_Updates>ɪᴇᴛ ᴜᴘᴅᴀᴛᴇs</a></b>"""
     SOURCE_TXT = """<b>SPIDER-MAN:</b>
-- Spiderman is Not a open source project made by <a href=https://t.me/iet_owner>IQBAL K A</a>. 
-- Source - <a href= https://t.me/IET_Owner/724>Click here </a>
+- Sᴘɪᴅᴇʀᴍᴀɴ ɪs Nᴏᴛ ᴀ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ ᴍᴀᴅᴇ ʙʏ <a href=https://t.me/iet_owner>IQBAL K A</a>. 
+- Source - <a href= https://t.me/IET_Owner/724>പോയി കണ്ടുപിടിച്ചോ</a>
 <b><u>📽️ How To Create This BoT.?</u></b>
 <a href= https://youtu.be/1ltbuCY_V6s>എങ്ങനെ ഉണ്ടാക്കാം എന്ന് അറിയാൻ ഇവിടെ ക്ലിക്ക് ചെയ്താൽ മതി. </a>
 
